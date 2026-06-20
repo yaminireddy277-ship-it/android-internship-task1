@@ -129,6 +129,45 @@ Through this task, I learned:
 **Task:** Task 2 – Designing and Implementing UI/UX
 
 ---
+# Task 3 - Backend Integration & API Development
+
+## Overview
+
+As part of Task 3 of my Android Development Internship, I integrated a REST API into my Android application using Retrofit and displayed dynamic user data with Jetpack Compose.
+
+## Features
+
+* Integrated REST API using Retrofit
+* Parsed JSON data using Gson Converter
+* Displayed user details in a LazyColumn
+* Used Kotlin Coroutines for asynchronous API calls
+* Added loading indicator while fetching data
+* Implemented basic error handling
+
+## Technologies Used
+
+* Kotlin
+* Jetpack Compose
+* Retrofit
+* Gson Converter
+* Kotlin Coroutines
+* Android Studio
+
+## API Used
+
+https://jsonplaceholder.typicode.com/users
+
+## Learning Outcomes
+
+* Understanding REST API integration
+* Working with Retrofit in Android
+* Parsing JSON responses
+* Displaying dynamic data in Jetpack Compose
+* Handling loading and network errors
+
+## Project Status
+
+✅ Task 3 Completed Successfully
 
 ## Author
 
