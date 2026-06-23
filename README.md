@@ -168,7 +168,129 @@ https://jsonplaceholder.typicode.com/users
 ## Project Status
 
 ✅ Task 3 Completed Successfully
+# Android Firebase Authentication App
 
-## Author
+## 📱 Project Overview
 
-**C Yamini**
+This project was developed as part of the **Android Development Internship** at **ApexPlanet Software Pvt. Ltd.**
+
+The application demonstrates user authentication using **Firebase Authentication** with a clean and user-friendly interface built using **Kotlin** in **Android Studio**.
+
+---
+
+## 🚀 Features
+
+- User Registration
+- User Login
+- Firebase Authentication
+- Input Validation
+- Error Handling
+- Secure Authentication
+- Modern Material Design UI
+- Logout Functionality
+
+---
+
+## 🛠️ Technologies Used
+
+- Kotlin
+- Android Studio
+- Firebase Authentication
+- Android SDK
+- Material Design Components
+- Gradle
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+app/
+├── java/
+├── res/
+│   ├── layout/
+│   ├── drawable/
+│   ├── values/
+├── AndroidManifest.xml
+└── google-services.json
+```
+
+---
+
+## 📸 Screenshots
+
+Add your screenshots here.
+
+- Splash Screen
+- Login Screen
+- Registration Screen
+- Home Screen
+
+Example:
+
+```
+screenshots/
+├── splash.png
+├── login.png
+├── register.png
+└── home.png
+```
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
+```
+
+2. Open the project in Android Studio.
+
+3. Connect the project with Firebase.
+
+4. Sync Gradle.
+
+5. Run the application on an emulator or Android device.
+
+---
+
+## 📚 Learning Outcomes
+
+During this project, I learned:
+
+- Android application development using Kotlin
+- Firebase Authentication integration
+- UI design using XML layouts
+- Activity navigation
+- User input validation
+- Error handling
+- Git and GitHub workflow
+- Project documentation
+
+---
+
+## 🎯 Internship Tasks Completed
+
+✅ Task 1 – Android Studio Setup
+
+✅ Task 2 – UI/UX Design Implementation
+
+✅ Task 3 – Backend Integration & API Development
+
+✅ Task 4 – Firebase Authentication Integration
+
+✅ Task 5 – Finalization, Documentation & Presentation
+
+* C Yamini
+
+Android Development Intern
+
+ApexPlanet Software Pvt. Ltd.
+
+
+
+
+
